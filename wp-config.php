@@ -25,7 +25,7 @@ define('DB_NAME', 'benedictinedom_com_stage');
 define('DB_USER', 'benedictinedom_com_usr');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '<:1)m/^N3'{ah6.95u~w');
+define('DB_PASSWORD', '<:1)m/^N3\'{ah6.95u~w');
 
 /** Adresse de l'hébergement MySQL. */
 define('DB_HOST', '107.20.199.173');
